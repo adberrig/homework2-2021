@@ -17,6 +17,9 @@ h2{
 p{
 	font-size: 24px;
 	padding-top: 15px;
+	padding-bottom: 0px;
+	padding-right: 0px;
+	padding-left: 0px;
 }
 
 img{
@@ -53,8 +56,10 @@ div#yellow p {
 	background-color: #008000;
 	text-align: left;
 }
-footer p {
+footer p{
 	text-align: center;
-	padding-bottom:  10px;
+	padding-bottom: 10px;
 	padding-right: 10px;
+	padding-left: 0px;
+	padding-top: 0px;
 }
